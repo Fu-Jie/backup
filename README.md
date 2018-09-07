@@ -6,3 +6,5 @@
 + pip
 + plotly
 + vscode sync (token好像是那个网页地址的后缀)
++ excel 备份 win32.tlb
++ git merge --no-ff branch_name
