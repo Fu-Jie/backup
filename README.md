@@ -4,3 +4,4 @@
 + .ssh
 + powershell configure file
 + pip
++ plotly
