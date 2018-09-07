@@ -3,3 +3,4 @@
 + dircolors
 + .ssh
 + powershell configure file
++ pip
