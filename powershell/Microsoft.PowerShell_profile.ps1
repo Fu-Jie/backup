@@ -1,6 +1,6 @@
 # chcp 65001
  
-
+#Set-ExecutionPolicy -ExecutionPolicy Unrestricted
 # Set-PSRepository -Name PSGallery -InstallationPolicy Trusted
 # install-Module DirColors
 # install-Module posh-git
