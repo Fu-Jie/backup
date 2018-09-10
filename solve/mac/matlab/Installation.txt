@@ -1,0 +1,44 @@
+1. Standalone mode:
+
+- Use the following FIK (File Installation Key) to install MATLAB: 
+
+	09806-07443-53955-64350-21751-41297
+
+- To install Matlab Production Server, use this FIK:
+
+	40236-45817-26714-51426-39281
+
+- Copy the libmwlmgrimpl.dylib file to "/Applications/MATLAB_R2018a.app/bin/maci64/matlab_startup_plugins/lmgrimpl/" , confirm replacement
+
+- Activate offline using provided license_standalone.lic file or copy the license file to "/Applications/MATLAB_R2018a.app/licenses/" and run MATLAB
+
+
+
+2. Floating license (network license server):
+
+- Use the following FIK (File Installation Key) to install MATLAB: 
+
+	31095-30030-55416-47440-21946-54205
+
+- To install Matlab Production Server, use this FIK:
+
+	57726-51709-20682-42954-31195
+
+- Copy the libmwlmgrimpl.dylib file to "/Applications/MATLAB_R2018a.app/bin/maci64/matlab_startup_plugins/lmgrimpl/" , confirm replacement
+
+- Use license_server.lic to activate
+
+
+
+
+
+
+
+
+
+
+
+This release was downloaded from:
+
+https://www.macxin.com
+有中文安装教程
