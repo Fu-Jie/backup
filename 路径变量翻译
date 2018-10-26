@@ -1,0 +1,39 @@
++ $packages
+The path to the Packages/ folder
+装的所有packages根路径
++ $platform
+A string containing the platform Sublime Text is running on: windows, osx or linux.
+运行软件的平台信息，windows mac 或者 linux
++ $file
+The full path, including folder, to the file in the active view.
+当前活动编码窗口的文件的完整路径。
++ $file_path
+The path to the folder that contains the file in the active view.
+包含文件夹的路径
++ $file_name
+The file name (sans folder path) of the file in the active view.
+没有文件夹路径的文件名，包括扩展名
++ $file_base_name
+The file name, exluding the extension, of the file in the active view.
+不包括扩展名的文件名
++ $file_extension
+The extension of the file name of the file in the active view.
+文件的扩展名
++ $folder
+The full path to the first folder open in the side bar.
+打开侧边栏的第一个文件夹的完整路径
++ $project
+The full path to the current project file.
+当前工程的完整路径，绝对路口
++ $project_path
+The path to the folder containing the current project file.
+不是完整路径的工程路径，相对路径。
++ $project_name
+The file name (sans folder path) of the current project file.
+单纯文件名，有扩展名。
++ $project_base_name
+The file name, excluding the extension, of the current project file.
+没有文件类型的文件名
++ $project_extension
+The extension of the current project file.
+文件的扩展名
